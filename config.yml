@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://vector-monitor.netlify.app/
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -276,7 +276,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  useLogo: true
+  useLogo: false
 
   # Where is the logo located, if one is
   # present at all?
@@ -292,7 +292,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: Something
 
   # Tabs on homepage
   # Uncomment to enable.
